@@ -18,13 +18,13 @@ const NavBar = () => {
         <nav className='flex justify-between mx-10'>
             <span className='flex gap-2' onClick={() => setOpen(!open)}> 
                 {open ? <X className='md:hidden'></X> : <Menu className='md:hidden'></Menu>}
-                <ul className='md:hidden'>
+                <ul className={`md:hidden absolute bg-indigo-600 ${open ? 'top-6 ': '-top-36'} duration-1000`}>
                     {links}
                 </ul>
                 <h3>My Navbar</h3>
             </span>
                 
-            <ul className='md:flex :hidden gap-5 list-none no-underline'>
+            <ul className='md:flex hidden gap-5 list-none no-underline'>
                 {
                     links
                 }

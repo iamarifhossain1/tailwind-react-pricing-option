@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$9/month",
+    "description": "Perfect for individuals just getting started.",
+    "features": [
+      "Access to core features",
+      "1 GB storage",
+      "Email support",
+      "Single user access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$29/month",
+    "description": "Ideal for small teams and growing businesses.",
+    "features": [
+      "All Basic features",
+      "10 GB storage",
+      "Priority email support",
+      "Up to 5 team members",
+      "Basic analytics"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$59/month",
+    "description": "Best for larger teams who need advanced tools.",
+    "features": [
+      "All Standard features",
+      "100 GB storage",
+      "24/7 phone & chat support",
+      "Unlimited team members",
+      "Advanced analytics & reports"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Enterprise",
+    "price": "Custom",
+    "description": "Tailored solutions for enterprises and organizations.",
+    "features": [
+      "All Premium features",
+      "Dedicated account manager",
+      "Custom integrations",
+      "Onboarding & training",
+      "Service level agreement (SLA)"
+    ]
+  }
+]
