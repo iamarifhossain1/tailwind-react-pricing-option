@@ -36,18 +36,5 @@
       "Unlimited team members",
       "Advanced analytics & reports"
     ]
-  },
-  {
-    "id": 4,
-    "name": "Enterprise",
-    "price": "Custom",
-    "description": "Tailored solutions for enterprises and organizations.",
-    "features": [
-      "All Premium features",
-      "Dedicated account manager",
-      "Custom integrations",
-      "Onboarding & training",
-      "Service level agreement (SLA)"
-    ]
   }
 ]
