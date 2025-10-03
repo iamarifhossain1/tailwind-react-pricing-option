@@ -1,7 +1,7 @@
 import React from 'react';
 
 const DaisyPricingCard = ({pricing}) => {
-    console.log(pricing);
+    // console.log(pricing);
     const {name, price, description, features, popular} = pricing;
     
     return (
